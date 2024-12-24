@@ -9,7 +9,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score
 
 # Load the dataset
-dataset = pd.read_csv('/Users/ziyadkhalid/Desktop/iot-hacking-detection/IoT_Intrusion 2.csv')
+dataset = pd.read_csv('')
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, -1].values
 
