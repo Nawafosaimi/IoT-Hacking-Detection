@@ -91,3 +91,8 @@ Precision: 0.9870
 Recall: 0.9900
 F1 Score: 0.9880
 ```
+## Contact
+
+For inquiries, feel free to contact me via:
+**Email: Nalosaimi22@gmail.com**
+**GitHub: Nawafosaimi**
