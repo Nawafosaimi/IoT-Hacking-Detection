@@ -1,4 +1,4 @@
-# IoT Intrusion Detection
+# IoT Hacking Detection
 
 This repository contains a Python script for detecting IoT intrusions using multiple machine learning classifiers. The script processes a dataset to classify network activities into normal or malicious categories based on feature inputs.
 
